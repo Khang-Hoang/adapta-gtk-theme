@@ -2211,7 +2211,7 @@ $provider_icon_size: 32px;
     padding: 5px;
     border-radius: 2px;
     border-top: 0 none transparent;
-    background-color: shellopacity($osd_bg_color, 0.9);
+    background-color: rgba('white', 0.1);
     box-shadow: $z-depth-1;
   }
 }
